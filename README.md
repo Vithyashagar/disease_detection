@@ -9,4 +9,5 @@ To find out the disease from the inputed image deeplearning is used. Without bui
 Final notebook containing all the codes is in the [Final_model](https://github.com/Vithyashagar/disease_detection/blob/main/Notebooks/Final_Model.ipynb) notebook.
 Models will be updated periodically.
 
-To Identify how the model identifies the disease classes saliency map was used. Salincy map related notbook van be found [here](https://github.com/Vithyashagar/disease_detection/blob/main/Notebooks/saliency.ipynb).
+To Identify how the model identifies the disease classes saliency map was used. Salincy map related notbook can be found [here](https://github.com/Vithyashagar/disease_detection/blob/main/Notebooks/saliency.ipynb).
+
