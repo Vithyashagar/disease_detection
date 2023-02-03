@@ -23,6 +23,7 @@ Saliency map
 
 ### Contributors 
 
-Kovisha K
+Kovisha K,
+Hillary J.R,
 Mariyam M.S.S
-Hillary J.R
+
