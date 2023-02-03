@@ -7,6 +7,8 @@ Initial data had image data from 5 classes. They are normal skin, monkeypox, acn
 To find out the disease from the inputed image deeplearning is used. Without building the model from scratch transfer learning techniques were used to save time and improved accuracy. Final model has a accuracy of 90%.
 
 Confusion matrix for model classification.
+
+
 ![CM](https://user-images.githubusercontent.com/68708047/215340221-25f384a6-111a-4a4d-8892-c63a50dda486.png)
 
 
