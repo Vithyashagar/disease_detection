@@ -21,7 +21,8 @@ Original images
 Saliency map 
 ![saliency](https://user-images.githubusercontent.com/68708047/215340319-a1367f0f-a80d-4aa0-9a62-5a479bb8d234.png)
 
-Contributors 
+### Contributors 
+
 Kovisha K
 Mariyam M.S.S
 Hillary J.R
