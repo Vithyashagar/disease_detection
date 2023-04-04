@@ -25,6 +25,7 @@ To Identify how the model identifies the disease classes saliency map was used. 
 
 ### Contributors 
 
+Vithyashagar T
 Kovisha K,
 Hillary J.R,
 Mariyam M.S.S
